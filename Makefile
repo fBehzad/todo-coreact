@@ -6,3 +6,7 @@ run:
 	npm run start
 build:
 	npm run bundle
+predeploy:
+	npm run bundle
+deploy:
+	gh-pages -d bundle
