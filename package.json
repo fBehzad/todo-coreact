@@ -1,7 +1,7 @@
 {
   "name": "todo-core",
-  "version": "1.0.2",
-  "homepage": "https://github.com/fBehzad/todo-coreact",
+  "version": "1.0.3",
+  "homepage": "https://fbehzad.github.io/todo-coreact/",
   "description": "todo mvc using coreact",
   "scripts": {
     "pack": "webpack --mode=production",
